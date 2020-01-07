@@ -1,0 +1,5 @@
+Walk Animation of Jason_Jackson
+
+Animation starts at 1 and ends at 7
+
+Animation is in seperated files because of reasons
