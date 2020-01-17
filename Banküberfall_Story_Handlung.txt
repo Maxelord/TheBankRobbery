@@ -1,0 +1,47 @@
+Bankraub - HANDLUNG		Hintergrund tag/nacht
+
+Student im Auslandssemester in Amerika
+Bekommt Nachricht von Krankheit der Mutter
+Haben nicht genug Geld
+Muss entscheiden, ob er eine Bank ausraubt
+
+Planung: 			Raum mit blueprints
+
+Welcher Schwierigkeitsgrad?
+Was willst du mitnehmen?
+Welche Tageszeit?
+
+Bankraub:
+
+Eingang vorne: 			Eingang vorne
+- Tag und Nacht: Weg zum Tresor
+Eingang hinten:			Eingang hinten
+- Tag: Zeuge -> Game over	Game over-screen?
+- Nacht: beim Tresor		vorm Tresorraum
+
+Schlüssel finden: (je nach Schwierigkeitsgrad)
+- nicht alle gefunden -> Game over
+- alle gefunden: zum Tresor
+
+Code finden
+zum Büro des Bankdirektors:	Büro des Bankdirektors (mit Code)
+- Code finden (und merken)
+zum Tresor und Code eingeben: 	vorm Tresor
+- falsch: nochmal eingeben
+- richtig: Geld ausrauben	Im Tresor
+
+Flucht:
+
+Eingang vorne:
+- Tag: Zeuge -> Game over
+- Nacht: Taxi zum Flughafen	Taxi
+	-> Flughafen		Flughafen
+
+Eingang hinten:
+- Tag: Zeuge -> Game over
+- Nacht: Fluchtwagen/Pferd 	Pferd
+	-> Flughafen		Hintergrund / Flughafen
+
+
+Im Hintergrund: Wüste tag/nacht
+Im Vordergrund: Inhalt

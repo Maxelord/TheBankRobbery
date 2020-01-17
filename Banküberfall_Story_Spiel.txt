@@ -1,0 +1,139 @@
+Bankraub - STORY
+
+Vorgeschichte:
+
+Du bist ein Student im Auslandssemester, in einer kleinen Stadt in Amerika. 
+Du hast deine Prüfungen schon alle geschrieben und fliegst bald zurück nach 
+hause. Eines Tages bekommst du jedoch eine Nachricht von deiner Mutter. 
+Sie ist krank. Ihr habt aber nicht genug Geld für die Operation, die ihr 
+das Leben retten würde. Du überlegst, ob du dir das Geld vielleicht von 
+Freunden leihen kannst, aber es ist einfach zu viel. Du siehst keine 
+andere Möglichkeit als das Geld zu stehlen.
+
+-> Willst du eine Bank ausrauben?
+	- Ja oder Nein
+	bei Nein: nochmal fragen
+
+Planung:
+
+Du hast dir überlegt eine Bank in einem kleinen Dorf in der Wüste ausrauben.
+Nun fragst du dich, welche Bank du ausrauben willst.
+
+-> Welche Bank willst du ausrauben?
+	- 1 oder 2 oder 3 (leicht, mittel, schwer)
+
+
+Du hast dich dort ein paar Mal schon umgeschaut und hast dir den Grundriss
+der Bank schon besorgt. Die Planung ist schon fast fertig. Du kannst jedoch 
+noch etwas in deiner Hosentasche mitnehmen, was die vielleicht beim Überfall 
+helfen wird.
+
+-> Was willst du mitnehmen?
+	- Waffe oder Tasche oder Dose Hundefutter
+
+
+Das Letzte was du noch entscheiden musst, ist, wann du die Bank ausraubst.
+
+-> Welche Tageszeit nimmst du? 
+	- Tag oder Nacht
+
+
+Bankraub:
+
+Du stehst vor der Bank. Erst jetzt bemerkst du, dass du dir noch keine Gedanken 
+gemacht hast, wie du nun eigentlich in die Bank reinkommst. Du schaust dich um 
+und siehst zwei Eingänge.
+
+-> Welchem Eingang willst du nehmen?
+	- vorne oder hinten
+
+
+Tag vorne: 
+Du hast es geschafft, dich durch die Eingangshalle 
+zum hinteren Bereich der Bank durchzuschlagen ohne 
+Aufmerksamkeit auf dich zu lenken. 
+(1. Der Weg zum Tresor ist durch zwei Bankangestellte versperrt. 
+    Du versuchst an ihnen vorbeizukommen.) -> vllt. Minispiel, wenn nicht 2.
+(2. Dort guckst du dich kurz um und gehst in Richtung des Tresors.)
+
+Nacht vorne:
+Du schleichst leise durch die leere Eingangshalle und begibst
+dich zum hinteren Bereich der Bank. Dort guckst du dich kurz um 
+und gehst in Richtung des Tresors.
+
+Tag hinten:
+Du wirst von einem Zeugen gesehen, wie du die Bank betrittst. 
+Er alarmiert sofort die Polizei. Du bist aufgeflogen und 
+wirst festgenommen. Du kannst deiner Mutter nicht mehr hefen.
+-> Game over
+
+Nacht hinten:
+Du hast es geschafft, durch den Hintereingang in die Bank 
+zu gelangen. Du siehst dich kurz um und gehst ein paar Schritte,
+um zum Tresor zu gelangen.
+
+Beim Tresor angekommen bemerkst du, dass du keinen Schlüssel
+für die Tresortür hast. Du gehst zu den Schreibtischen
+der Angestellten und suchst dort nach den Schlüsseln.
+
+	- Minispiel: Schlüssel finden(-> Schwierigkeitsgrad vom Anfang?)
+		- alle gefunden: zum Tresor
+		-> nicht alle gefunden: Game over
+
+Du hast alle Schlüssel gefunden. Du versuchst nun die Tresortür zu 
+öffnen. Es funktioniert aber nicht. Du musst noch einen Sicherheitscode 
+eingeben. Du begibst dich auf die Suche nach dem Sicherheitscode im Büro 
+des Bankdirektors.
+
+	- Minispiel: Code merken (Code im Bild, vierstellig)
+
+Du hast den Code im Büro des Direktors gefunden. Du merkst ihn dir und 
+gehst zurück zum Tresor. Beim Tresor angekommen gibst den Code ein.
+
+	- Minispiel: Code eingeben (vier Zahlen aus dem Büro vom Bankdirektor)
+		- wenn richtig: Tür geht auf
+		- wenn falsch: Code nochmal eingeben
+
+Die Tresortür öffnet sich. Du siehst die vielen Geldscheine dort liegen und freust 
+dich damit deiner Mutter das Leben zu retten. Du nimmst so viel Geld, wie du tragen 
+kannst und begibst dich Richtung Ausgang. Du kannst dir jetzt aber aussuchen, welchen 
+Ausgang du nimmst.
+
+-> Welchen Ausgang nimmst du?
+	- vorne oder hinten
+
+
+Flucht:
+
+Tag vorne:
+-> schon beim betreten der Bank: Game over
+
+Nacht vorne:
+Du hast es geschafft, die Bank durch den Haupteingang zu verlassen. Ein 
+Taxi fährst an der Bank vorbei. Du hältst das Taxi an und fährst mit ihm zum Flughafen.
+-> Du hast es geschafft. Du bist nun am Flughafen und wartest auf den nächsten 
+Flug nach Deutschland. Du freust dich schon auf das Wiedersehen mit deiner Mutter. 
+Du hast jetzt genug Geld für die Operation, um deine Mutter zu retten. Wenn sie 
+wieder gesund ist, planst du schon mit dem restlichen Geld eine Reise mit ihr zu machen.
+
+Tag hinten:
+Du versuchst mit dem Geld unaffällig durch den Hintereingang die Bank
+zu verlassen. Also du gerade die Bank verlässt, wirst du von einem 
+Bankangestellten aufgehalten. Du versuchst schnell der Situation zu 
+entkommen, jedoch verhältst du dich dadurch sehr verdächtig. Der 
+Bankangestellte ist skeptisch und ruft den Sicherheitsdienst.
+-> Du kannst nun nicht mehr entkommen. Der Sicherheitsdienst durchsucht 
+deine Taschen und findet das Geld. Er nimmt dich fest und ruft sofort
+die Polizei. Du hast es nicht geschafft, das Geld für die OP deine Mutter
+aufzutreiben. -> Game over
+
+Nacht hinten:
+Du hast es geschafft, aus der Bank zu fliehen. Schon am Vormittag hast
+du ein Pferd hinter der Bank versteckt. Da du keine Menschen
+in der Nähe siehst, gehst du möglichst unauffällig zu deinem Pferd und 
+reitest los.
+-> Du hast es geschafft. Du reitest nun zum Flughafen um den nächsten
+Flug nach Deutschland zu nehmen. Dort angekommen bezahlst du die
+Operation für deine Mutter. Durch die OP wird sie nun wieder 
+vollständig gesund.
+
