@@ -1,0 +1,36 @@
+Ablauf der Erstellung von Grafiken:
+	-Beim Zeichnen der Pixel für die Grafiken wurde das Programm Aseprite benutzt
+	-*1 Vor dem erstellen "bestimmter" Grafiken wird erst geschaut wie "bestimmte" Objekte 
+	 in der Realität aussehen. Davon wird dann ein grobes Bild erstellt, was als Vorlage für das Endprodukt benutzt wird.
+	-Der eigentliche Ablauf vom Pixeln läuft dann deutlich simpler ab, als Freihand oder ohne Vorlage:
+		-Über die Vorlage, wird dann ein neuer Layer erstellt, um die Vorlage mit Farbe und grobe Details abzuzeichnen(meistens einfach farbe)
+		-Nachdem wird dann wieder vom Bild aus der Realität verglichen und abgeschaut um feinere Details hinzuzufügen oder
+		 die richtigen Farben zu finden.(Schatten und Textur)(Bild hier)
+	
+	-*2 Alternativ wurden wir auch von bereits existierenden Artworks inspiriert um zum Beispiel Detailtechniken abzuschauen
+	-Auch davon erstellen wir dann eine Vorlage und wiederholen, dann das bereits oben beschriebene
+	
+	
+Animationen
+	-Für die Animationen wurde ebenfalls das Programm Aseprite genutzt
+	-Die Animationen laufen ähnlich ab:
+		-Erst wird geschaut wie etwas in der Realität aussieht und dazu noch, wie es sich in Echt verhält oder bewegt
+		-Um eine grobe, aber flüssig aussehende Animation zu erstellen, benutzten wir mindestens 7 Frames bzw. Bilder pro Animation (max.8)
+		-Jedes dieser Bilder bekommt eine Vorlage die grob zeigen soll, wie die Animation am Ende aussehen soll
+		-Danach wird jedes dieser Bilder wieder grob detailiert und abgezeichnet
+		-Und am ende fein detailiert, jedoch muss darauf geachtet werden, das die Details flüssig mit einander verlaufen 
+		 und eine Realistische Animation darstellen
+	
+	
+	
+	
+	
+	
+	
+Schwierigkeiten und Probleme:
+	Das größte Problem ist der Aufwand von Animationen, auch wenn die im Prinzip relativ Simpel sind, kosten die dennoch viel Zeit,
+	weshalb wir uns auch auf max. 8 Frames beschränkt haben.
+	Zudem kommen verfallene Ideen oder Ideen umänderungen die auch das Leben alter bilder kostete.
+	
+	Das kleinere Problem auf das wir gestoßen sind, sind die verschiedenen Artwork designs. Denn es haben 2 Leute an den Grafiken gearbeitet
+	und durch zu wenig absprache wurden dann Pixelbilder in verschiedenen größen und auch verschiedene ausssehen erstellt.
