@@ -1,0 +1,145 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto;
+    height: 600px;
+}
+
+.container {
+    
+}
+
+.card {
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 0px;
+}
+
+.card-block {
+    font-size: 0.89em;
+    position: relative;
+    margin: 0;
+    padding: 1em;
+}
+
+.card-img-top {
+    display: block;
+    width: 100%;
+    height:300px;
+    height: auto;
+}
+
+@media only screen and (max-width: 800px) {
+  .textfeld {
+    margin-top:30%;
+  }
+}
+
+/* modal */
+.modal-center {
+    display:table;
+    height: 100%;
+    width: 100%;
+}
+
+.modal-align-center {
+    : table-cell;
+    vertical-align: middle;
+}
+
+.modal-content {
+    height:inherit;
+    margin: 0 auto;
+}
+
+#credits{
+    background: transparent;
+    border: none !important;
+    margin-top:13%;
+    margin-left:-15.5%;
+    width: 200px;
+    height: 70px;
+}
+
+#newgame {
+    background: transparent;
+    border: none !important;
+    margin-top:-10%;
+    margin-left: 8%;
+    width: 150px;
+    height: 70px;
+}
+/* modal ende */
+
+#image {
+    display: block;
+    margin: auto;
+    margin-top: 2%;
+    width: 1000px;
+    height:600px;
+}
+
+#image_left {
+    display: block;
+    float:left;
+    margin-top: -101%;
+    margin-left: 22%;
+    width:382px;
+    height:322px;
+}
+
+#text {
+    float:right;
+    width:37.5%;
+    margin-top: -47.5%;
+    margin-right: 10%;
+    color: white;
+    font-size: 17px;
+    
+}
+
+.btn-grid {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    margin: -16% 8% 0 9%;
+}
+
+.btn {
+    background: #8b4513;
+    border: 5px solid #633718;
+    border-radius: 5px;
+    margin-left: 4%;
+    margin-bottom: 1%;
+    width:90%;
+    z-index: 1;
+    color: white;
+    font-size: 19px;
+}
+
+/* Memory style*/
+#mem-play {
+    background: #8b4513;
+    border: 25px solid #633718;
+    margin: 0px auto;
+    width: 1000px;
+    height: 600px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.mem-card {
+    background: #8b4513;
+    border: 5px solid #633718;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+.mem-card.open {
+    background: #fea;
+}
+.mem-card.ok {
+    background: #cfffc2;
+}
+/* Memory ende*/
