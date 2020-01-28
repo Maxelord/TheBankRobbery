@@ -5,18 +5,18 @@ Dokumentation Medieninformatik 1
 Wintersemester 2019/20
 
 Grafiken:
-- Hintergrund (Vorlagen/Inspiration):
+- Hintergrund (Vorlagen/Inspiration): 
 	- Hintergrund: 		https://www.istockphoto.com/ch/vektor/pixel-art-w%C3%BCste-am-tag-gm922089424-253161225
 	- Details Hintergrund: 	https://www.istockphoto.com/de/vektor/pixel-art-w%C3%BCste-szene-gm922091062-253161235
 	- Bank: 		https://www.colourbox.de/vektor/wild-west-gebaude-vektor-10985134
 	- Tür der Bank:		https://www.rgbstock.de/photo/pQWFrla/Kirchent%C3%BCren
 	- Holzschilder: 	https://www.istockphoto.com/de/vektor/holz-zum-verkauf-zu-unterzeichnen-vektor-pixel-art-auf-wei%C3%9F-gm939658894-256907109
 
-- Auswahlscreens (Inspiration):
+- Auswahlscreens (Inspiration): 
 	- Dialogfeld im Spiel 'Stardew Valley':	 https://stardewvalleywiki.com/File:Animal_left_outside_dialog.png
 	
-- Pferd Animation (Inspiration):
-	- Bewegungen eines Pferdes: 		 https://de.wikipedia.org/wiki/Datei:The_Horse_in_Motion.jpg
+- Pferd Animation (Inspiration): 
+	- Horse in Motion: 	https://de.wikipedia.org/wiki/Datei:The_Horse_in_Motion.jpg
 
 - Tresortür (Inspiration):
-	- Tür:			 https://www.pinterest.de/pin/228417012321015941/?lp=true
+	- Tür:			https://www.pinterest.de/pin/228417012321015941/?lp=true
