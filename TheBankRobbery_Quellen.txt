@@ -20,3 +20,8 @@ Grafiken:
 
 - Tresortür (Vorlagen/Inspiration):
 	- Tür:			https://www.pinterest.de/pin/228417012321015941/?lp=true
+	
+Bibliotheken:
+- Bootstrap.css
+- Bootstrap.min.js
+- jQuery.min.js
