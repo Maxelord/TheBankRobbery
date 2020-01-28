@@ -1,0 +1,55 @@
+Quellen für die Inspirationen und Vorlagen:
+
+Pferd Animation:
+https://de.wikipedia.org/wiki/Datei:The_Horse_in_Motion.jpg
+
+Tresor Tür:
+https://www.pinterest.de/pin/228417012321015941/?lp=true
+
+Everything else comes straight out of my head.
+
+------------------------------------------------------------------------
+
+Erste woche:
+Brainstorming mit der Gruppe
+
+2. Woche:
+Verschiedene Ideen zusammengeworfen und sich für ein Spiel entschieden.
+Ich habe direkt damit angefangen den Charakter vor zu Pixeln und vorgeschlagen Pixel-Grafik zu nutzen.
+
+3. Woche:
+Weitere Ideen wurden in der Gruppe hinzugefügt oder Verworfen.
+Wir haben uns für ein Pixel gezeichnetes Spiel entschieden.
+Darauf hin habe ich mehrere Bilder für bestimmte ideen gepixelt.
+Angefangen Javascript Canvas tutorials zu schauen um es sich anzueignen.
+
+4. Woche:
+Übungsspiele mit JS und Canvas programmiert.
+
+5. Woche:
+Weiterhin JS und Canvas geübt und versucht bestimmte Spielideen umzusetzen.
+
+6. Woche:
+Lauf-Animation für den Hauptcharakter gepixelt.
+
+7. Woche:
+Hundefutter und Tasche gepixelt.
+Gebäude Blaupause für die Planung gepixelt.
+
+8. Woche:
+Weihnachten
+
+9. Woche:
+Neujahr
+
+10. Woche:
+Waffe, Memoriekarten und Tresorraum gepixelt.
+
+
+11. Woche:
+Pferde Animation animiert und Tresortür und Planungsgarage gepixelt.
+
+
+Letzte Woche:
+Memoriekarten erweitert, Familienfoto, Manageroffice gepixelt.
+Versucht Bugs und Fehler aus dem Spiel zu entfernen
