@@ -1,0 +1,353 @@
+/* Allgemein */
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #333;
+  background: #f8f8f8;
+}
+
+h5 {
+    font-size: 14px;
+}
+
+.container {
+    padding-top: 100px;
+}
+
+.card:first-child {
+  border-radius: 0;
+}
+/* Allgemien ende */
+
+/* Header Nav */
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
+.navbar-brand {
+    margin-left:11.2%;
+}
+
+.collapse {
+    margin-left:-2%;
+}
+
+.nav-link {
+    font-size: 30px;
+    margin-top:4%;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar-brand {
+        margin-left:0.1%;
+    }
+    .collapse {
+        margin-left:-8%;
+    }
+}
+/* Header Nav ende */
+
+/* Artikel */
+.artikel-body {
+    background: #fff;
+    padding: 5% 2% 1.5%;
+    width: 100%;
+}
+
+.artikel-body h3 {
+    color: #004085;
+    margin-bottom: 4%;
+}
+
+.artikel-body h5 {
+    font-size: 14px;
+}
+
+.section p {
+    margin-top: 10%;
+    color: #545b62;
+}
+
+.artikel-body img {
+    width: 100%;
+}
+/* Artikel ende */
+
+/* Mittelbereich */
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    color: currentColor;
+    text-decoration: none;
+    overflow: hidden;
+    transition-property: color;
+    transition-delay: 0.15s;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card.hover {
+    color: white;
+    transition-delay: 0;
+}
+
+.card_text {
+    display: none;
+}
+
+.card, .card_text, .card_image, .card_image::after, .card_body, .card_foot, .card_border {
+    transition-duration: 0.4s;
+    transition-timing-function: cubic-bezier(0.51, 0.92, 0.24, 1);
+}
+
+.card_head {
+    position: relative;
+    height: 300px;
+}
+
+.card_image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-size: cover;
+    background-position: center;
+    -webkit-transform-origin: top center;
+          transform-origin: top center;
+    transition-property: -webkit-transform;
+    transition-property: transform;
+    transition-property: transform, -webkit-transform;
+    transition-delay: 0.15s;
+}
+
+.card_image::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: .5;
+    background: linear-gradient(30deg, rgba(26, 42, 99, 0.85), rgba(26, 42, 99, 0.5));
+    transition-property: opacity;
+    transition-delay: 0.15s;
+}
+
+.card_body {
+    position: relative;
+    padding: 2em;
+    transition-delay: 0.15s;
+}
+
+.card.hover .card_body {
+    transition-delay: 0;
+}
+
+.card_headline {
+    font-weight: 400;
+    margin: 0 0 .8em;
+}
+
+.card_text {
+    line-height: 1.5;
+    margin: 0;
+    opacity: .8;
+}
+
+.card_foot {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0 2em 2em;
+    opacity: 0;
+    transition-property: opacity;
+}
+
+.card.hover .card_foot {
+    opacity: 1;
+    transition-delay: 0.15s;
+}
+
+.card_link {
+    color: currentColor;
+    text-decoration: none;
+    border-bottom: 2px solid #b5272d;
+}
+
+.card_border {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 6px;
+    background: #b5272d;
+    -webkit-transform: scaleY(0);
+          transform: scaleY(0);
+    transition-property: -webkit-transform;
+    transition-property: transform;
+    transition-property: transform, -webkit-transform;
+}
+
+.card.hover .card_border {
+    -webkit-transform: none;
+          transform: none;
+    transition-delay: 0.15s;
+}
+
+.bottom {
+    padding-bottom: 30px;
+}
+/* Mittelbereich ende */
+
+/* comment */
+input, textarea {
+    outline: none;
+    border: none;
+    display: block;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    font-family: "PT Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+    font-size: 1rem;
+    color: #555f77;
+}
+
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+    color: #151515;
+}
+
+input::-moz-placeholder, textarea::-moz-placeholder {
+    color: #151515;
+}
+
+input:-moz-placeholder, textarea:-moz-placeholder {
+    color: #151515;
+}
+
+input:-ms-input-placeholder, textarea:-ms-input-placeholder {
+    color: #151515;
+}
+
+p {
+    line-height: 1.3125rem;
+}
+
+.comments {
+    margin: 2.5rem auto 0;
+    max-width: 60.75rem;
+    padding: 0 1.25rem;
+}
+
+.comment-wrap {
+    margin-bottom: 1.25rem;
+    display: table;
+    width: 100%;
+    min-height: 5.3125rem;
+}
+
+.comment-block {
+  padding: 1rem;
+  background-color: #fff;
+  display: table-cell;
+  vertical-align: top;
+  border-radius: 0.1875rem;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.08);
+}
+
+.comment-block textarea {
+    width: 100%;
+    resize: none;
+}
+
+.comment-text {
+    margin-bottom: 1.25rem;
+}
+
+.bottom-comment {
+    color: #acb4c2;
+    font-size: 0.875rem;
+}
+
+.comment-date {
+    float: right;
+    color: #acb4c2;
+    font-size: 0.875rem;
+}
+
+.comment-name {
+    float: left;
+    color: #acb4c2;
+    font-size: 1.115rem;
+}
+
+.comment-actions {
+    float: right;
+}
+
+.comment-actions li {
+    display: inline;
+    margin: -2px;
+    cursor: pointer;
+}
+
+.comment-actions li.complain {
+    padding-right: 0.5rem;
+    border-right: 1px solid #e1e5eb;
+}
+
+.comment-actions li.reply {
+    float: right;
+    padding-left: 0.75rem;
+    padding-right: 0.125rem;
+}
+
+.comment-actions li:hover {
+    color: #0095ff;
+}
+
+#name {
+    padding-bottom: 2%;
+    border-bottom: 1px solid #151515;
+    width: 100%;
+}
+
+/* comment ende */
+
+/* footer */
+#footer {
+    margin-top: -3.5%;
+}
+#footer ul.social li{
+	padding: 3px 0;
+}
+
+#footer ul.social li a i {
+    margin-right: 5px;
+	font-size:25px;
+	-webkit-transition: .5s all ease;
+	-moz-transition: .5s all ease;
+	transition: .5s all ease;
+}
+
+#footer ul.social li:hover a i {
+	font-size:30px;
+	margin-top:-10px;
+}
+
+#footer ul.social li a,
+#footer ul.quick-links li a{
+	color:#000000;
+}
+
+#footer ul.social li a:hover{
+	color:#3b5998;
+}
+
+#footer a {
+    color: #000000;
+    text-decoration: none !important;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+/* footer ende */
